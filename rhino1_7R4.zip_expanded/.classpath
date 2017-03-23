@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="rhino1_7R4/deprecatedsrc"/>
+	<classpathentry kind="src" path="rhino1_7R4/examples"/>
+	<classpathentry kind="src" path="rhino1_7R4/src"/>
+	<classpathentry kind="src" path="rhino1_7R4/testsrc"/>
+	<classpathentry kind="src" path="rhino1_7R4/toolsrc"/>
+	<classpathentry kind="src" path="rhino1_7R4/xmlimplsrc"/>
+	<classpathentry kind="lib" path="rhino1_7R4/js-14.jar"/>
+	<classpathentry kind="lib" path="rhino1_7R4/js.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
